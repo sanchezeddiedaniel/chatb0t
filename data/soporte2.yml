@@ -1,0 +1,148 @@
+categories:
+- soporte
+conversations:
+- - hola Edd
+  - Bienvenido a Edd Computer. ¿En qué puedo ayudarte?
+  - Hola, ¿En qué puedo ayudarte?
+- - mi PC no hace nada
+  - Si no se enciende una luz en la torre, seguramente sea la fuente de alimentación. Si el caso, sólo se reemplazará la fuente de alimentación.
+  - Verifica si está conectado a la corriente.
+- - mi PC no da video
+  - Verifíca el cable de vídeo de la PC y del Monitor.
+  - Posiblemente las Memorias RAM no funcionen correctamente.
+  - Posiblemente tenga algún desperfecto la Tarjeta Madre o la Tarjeta de Vídeo.
+  - Posible falla del Procesador.
+- - mi PC no inicia Windows
+  - Lo más probable es que se haya dañado el disco duro. Hay que sustituirlo. Si consigues arrancar Windows tras varios intentos, intenta hacer copia de seguridad de tus datos.
+- - escucho el sonido de Windows pero no veo nada en pantalla
+  - Posible falla en la tarjeta gráfica (integrada o dedicada), o mal funcionamiento de controladores de pantalla.
+  - Verifíca las conexiones de la pantalla y la PC.
+- - mi PC enciende y se apaga
+  - Es un fallo debido al sobrecalentamiento. En algunos casos puede ser fallo electrónico.
+  - Limpia el disipador.
+  - Reemplaza la pasta térmica.
+- - mucha publicidad
+  - Es recomendado tener un buen antivirus actualizado y de prestigio.
+- - mi PC va muy lento
+  - En este caso puede ser los virus, o también puede ser un daño físico en el disco, o en el peor de los casos su PC no cumple con los requisitos para correr el sistema operativo correctamente.
+- - mi laptop va muy lenta
+  - En este caso puede ser los virus, o también puede ser un daño físico en el disco, o en el peor de los casos su PC no cumple con los requisitos para correr el sistema operativo correctamente.
+- - mi laptop no carga la bateria
+  - Seguramente el problema sea del cargador. Suelen dañarse muy frecuentemente por sobretensión, en este caso se verifica y se sustituye.
+- - mi laptop no hace nada
+  - Si no se enciende una luz, seguramente sea la fuente de alimentación. Puede revisar si la batería está cargada. Si es el caso de alguno, se debe reemplazar.
+  - Verifica si está conectado a la corriente.
+- - mi laptop no da video
+  - Verifica que la laptop tenga carga en la batería o este conectada a la corriente.
+- - mi laptop no da video  
+  - Posiblemente las Memorias RAM no funcionen correctamente.
+- - mi laptop no da video  
+  - Posiblemente tenga algun desperfecto la Tarjeta Madre o la Tarjeta de Video.
+- - mi laptop no da video  
+  - Posible falla del Procesador.
+- - mi laptop no inicia Windows
+  - Lo más probable es que se haya dañado el disco duro. Hay que sustituirlo. Si consigues arrancar Windows tras varios intentos, intenta hacer copia de seguridad de tus datos.
+- - Cual es tu nombre
+  - Mi nombre es EDD Computer.
+- - cual es tu nombre
+  - Mi nombre es EDD Computer.
+- - Nombre
+  - Puedes decirme EDD Computer
+- - nombre
+  - Puedes decirme EDD Computer  
+- - Como te llamas
+  - Edd Computer
+- - como te llamas
+  - Edd Computer
+- - edd computer
+  - Ese es mi nombre, ¿En que puedo ayudarte? 
+- - mi PC no conecta a internet
+  - Comprueba que el Wi-Fi este encendido y que esta conectado a una red. En caso contrario, verifica si tienes el cable conectado al adaptador de red alambrico.
+- - mi laptop no se conecta a internet
+  - Comprueba que el Wi-Fi este encendido y que esta conectado a una red. En caso contrario, verifica si tienes el cable conectado al adaptador de red alambrico.
+- - hdmi no da video
+  - Verifica si el cable este bien conectado y este activada la segunda pantalla. En otros casos, puede ser que necesites actualizar los controladores de tu ordenador.
+- - vga no da video
+  - Verifica si el cable este bien conectado y este activada la segunda pantalla. En otros casos, puede ser que necesites actualizar los controladores de tu ordenador.
+- - displayport no da video
+  - Verifica si el cable este bien conectado y este activada la segunda pantalla. En otros casos, puede ser que necesites actualizar los controladores de tu ordenador.
+- - dvi no da video
+  - Verifica si el cable este bien conectado y este activada la segunda pantalla. En otros casos, puede ser que necesites actualizar los controladores de tu ordenador.
+- - hdmi no da imagen
+  - Verifica si el cable este bien conectado y este activada la segunda pantalla. En otros casos, puede ser que necesites actualizar los controladores de tu ordenador.
+- - vga no da imagen
+  - Verifica si el cable este bien conectado y este activada la segunda pantalla. En otros casos, puede ser que necesites actualizar los controladores de tu ordenador.
+- - displayport no da imagen
+  - Verifica si el cable este bien conectado y este activada la segunda pantalla. En otros casos, puede ser que necesites actualizar los controladores de tu ordenador.
+- - dvi no da imagen
+  - Verifica si el cable este bien conectado y este activada la segunda pantalla. En otros casos, puede ser que necesites actualizar los controladores de tu ordenador.
+- - que es la CPU
+  - Es un dispositivo electronico capaz de calcular datos a gran velocidad y con un minimo de energia.
+- - que es la CPU
+  - Es un dispositivo electronico capaz de calcular datos a gran velocidad y con un minimo de energia.
+- - cuales son las partes internas de mi PC
+  - Tarjeta Madre, Memoria RAM, Memoria secundaria (digase Discos Duros) y Procesador.
+- - cuales son las partes internas de mi laptop
+  - Tarjeta Madre, Memoria RAM, Memoria secundaria (digase Discos Duros), Procesador y Bateria.
+- - cuales son las partes externas de mi PC
+  - Las partes externas basicas de tu ordenador son el teclado, el raton, el monitor, las bocinas, entre otros como impresora.
+- - cuales son las partes externas de mi laptop
+  - Las partes externas basicas de tu ordenador pueden son el teclado, el raton, la camara si posee, el monitor y las bocinas.
+- - necesito abrir el gabinete de mi PC
+  - Para abrir el gabinete, normalmente, no hay más que quitar los tornillos de la parte posterior del mismo, aunque en ocasiones, y dependiendo del diseño de estas, es posible que lleven un pequeño mecanismo de apertura o que se pueda desmontar a nuestro gusto el lateral que necesitemos.
+- - recomendaciones para abrir el gabinete
+  - Apaga y desconecta la computadora de la corriente. Nunca muevas el PC cuando este encendido y cuando hayas abierto el gabinete toca cualquier parte metalica del gabinete para descargar la electricidad estatica que en en tu cuerpo.
+- - porque debo dar mantenimiento
+  - Sencillamente para prolongar la vida util del PC y que pueda trabajar eficientemente. Existen dos, el correctivo y el preventivo. ¿Cual de los dos quisieras saber?
+- - mantenimiento preventivo
+  - Su propósito es prevenir las fallas aplicando una inspeccion de los equipos, manteniendo los equipos en óptima operación. Este tipo de mantenimiento involucra la limpieza interna y externa del equipo de cómputo, y sus componentes, recuerda que estas ayudando no solo a mejorar tu computadora, también estas ayudando a proteger tu información personal.
+- - mantenimineto correctivo
+  - El proposito del manteminiento correctivo es solucionar las fallas que ocurren y para corregir el mal funcionamiento del equipo. Las ventaja que tendra en el equipo son ahorro de dinero, excelentes velocidades y el funcionamiento normal de la PC.
+- - como cierro el gabinete
+  - Después de haber limpiado el gabinete por dentro, vuelves a cerrarlo, tomando los tornillos y los colocas en su lugar y los enroscas con el desarmador, conectas los cables y dejas el gabinete en su lugar.
+- - como limpiar el teclado
+  - Si lo que deseas es limpiarlo interior necesitas aire comprimido y lo pasas por fuera de las teclas de forma regular y en todo el teclado, o también puedes utilizar espuma limpiadora y una toalla y limpiamos de forma constante.
+- - como limpiar el monitor
+  - Puedes utilizar espuma limpiadora o toallitas limpiadoras, y suavemente pasamos por la pantalla de tal forma que no presiones mucho, debe ser con cuidado.
+- - como eliminar archivos temporales
+  - Cierre todos los programas en uso. Presione Inicio, escriba ejecutar y haga clic. Luego en la ventana escriba %temp% y clic en aceptar. Espere que aparezca la carpeta y elimine todos los archivos que desee, seleccionandolos y oprimiendo la tecla suprimir.
+- - como vaciar la papelera
+  - Sobre el icono de la Papelera de Reciclaje pulse el boton secundario del raton, normalmente es el derecho, y en el menu contextual que se muestra hacer clic en Vaciar Papelera de Reciclaje.
+- - la pila del board no funciona
+  - Esto quiere decir que se descargo la bateria. La solucion es cambiarla. Para eso debe abrir el gabinete y sustituirla por una nueva.
+- - la PC no arranca
+  - Fallo en el sistema operativo o algun problema con la corriente de los componentes.
+  - El monitor no esta conectado a la corriente.
+- - pantallas azules
+  - Eso indica que acaba de fallar el sistema operativo. O existe algun problema con la alimentacion de corriente de los componentes. Pruebe conectando todo correctamente, de lo contrario necesita reinstalar el sistema operativo.
+- - el sistema falla
+  - Algun compponente que se intalo, no se instalo correctamente o exista un programa creando conflicto con el sistema.
+- - no se reproduce sonido
+  - Verifique que las bocinas esten conectadas a la tarjeta de sonido interna o externa.
+  - Cambie la tarjeta de sonido.
+  - Actualice los controladores de la controladora de sonido.
+- - los abanicos producen mucho ruido
+  - Verifique que los abanicos no presenten exceso de polvo, o por el lugar en que esta no debe ser encerrado. En otros casos puede ser que un cable este haciendo corto, cuando se calienta mucho.
+  - Aplique mantenimiento preventivo, en este caso seria limpiar el abanico. En caso de estar defectuoso debe ser cambiado y llevarlo donde un especialista en PC.
+- - los ventiladores producen mucho ruido
+  - Verifique que los ventiladores no presenten exceso de polvo, o por el lugar en que esta no debe ser encerrado. En otros casos puede ser que un cable este haciendo corto, cuando se calienta mucho.
+  - Aplique mantenimiento preventivo, en este caso seria limpiar el ventiladores. En caso de estar defectuoso debe ser cambiado y llevarlo donde un especialista en PC.
+- - la PC se congela
+  - Revise el disipador o abanico del procesador.
+  - Podria ser que necesite limpiar los archivos temporales.
+- - la laptop se congela
+  - Revise el disipador o abanico del procesador. Aunque en otros casos puede ser problemas del disco duro.
+  - Podria ser que necesite limpiar los archivos temporales. O cambiar el disco duro e instalar el sistema nuevamente.
+- - no hay espacio en el disco duro
+  - Limpie algunos archivos que no necesite de su PC. Tambien elimine los archivos temporales.
+- - ruido en el disco duro
+  - Mucho polvo en el gabinete provoca que haya fallas con la fuente de poder. En otros casos puede ser que el disco duro no este funcionando correctamente y necesite cambiarlo.
+- - la pc emite pitidos al encender
+  - Verifica que la memoria RAM se encuentre en el gabinete y este bien conectada a la tarjeta madre. En otros casos necesite cambiar la memoria ram.
+  - Verifique que todos los componentes esten bien conectados.
+- - el puntero no se mueve
+  - Puede ser que exista algun virus o controlador dañado en el sistema. Aunque en otros casos pueda ser que este mal conectado.
+- - quien te creo
+  - Quien me programó y me enseño a reparar computadoras es Eddie Daniel Sanchez. Matricula 18 EISN 6 085 
+- - presentanos
+  - Hola, Mi nombre es E D D COMPUTER. Soy tu asistente de reparación. Quién me programó para reparar computadoras es Eddie Daniel Sanchez. Matrícula 18 EISN 6 085 
